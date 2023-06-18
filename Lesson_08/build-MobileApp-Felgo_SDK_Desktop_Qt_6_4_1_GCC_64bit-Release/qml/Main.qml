@@ -1,5 +1,5 @@
-import Felgo 4.0
-import QtQuick 6.0
+import Felgo
+import QtQuick
 
 App {
     // You get free licenseKeys from https://felgo.com/licenseKey
